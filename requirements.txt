@@ -1,0 +1,10 @@
+beautifulsoup4==4.10.0
+certifi==2021.10.8
+charset-normalizer==2.0.7
+idna==3.3
+plotly==5.3.1
+requests==2.26.0
+six==1.16.0
+soupsieve==2.3
+tenacity==8.0.1
+urllib3==1.26.7
